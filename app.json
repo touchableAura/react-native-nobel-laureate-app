@@ -1,0 +1,13 @@
+{
+    "expo": {
+        "name": "assignment-reactnative-tonghohin",
+        "slug": "assignment-reactnative-tonghohin",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "light",
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        }
+    }
+}
